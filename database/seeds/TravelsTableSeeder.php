@@ -3,7 +3,7 @@
 use Illuminate\Database\Seeder;
 use App\Travel;
 
-class UsersTableSeeder extends Seeder
+class TravelsTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
